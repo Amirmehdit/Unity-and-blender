@@ -1,0 +1,20 @@
+{
+  "name": "com.blendersync",
+  "version": "1.0.0",
+  "displayName": "BlenderSync (Blender 5.x Real-Time URP Pipeline)",
+  "description": "Real-time evaluated map synchronization from Blender 5.x (Geometry Nodes, linear color attributes, custom attributes, and URP shaders) into Unity 6 URP scenes without modifying scene atmosphere.",
+  "unity": "6000.0",
+  "keywords": [
+    "blender",
+    "sync",
+    "urp",
+    "geometry-nodes",
+    "vertex-color"
+  ],
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.3"
+  },
+  "author": {
+    "name": "BlenderSync Tools Engineering"
+  }
+}
